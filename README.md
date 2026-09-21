@@ -1,0 +1,2 @@
+# StockStack-Full-Stack-Investment-Management-Platform-
+Tech: React.js,Node.js,Express.js,MongoDB  Developed a full-stack platform for managing stock portfolios, investments, orders, and user accounts. Implemented secure authentication and RESTful APIs using Node.js, Express.js, and MongoDB. Built responsive React dashboards to visualize portfolio holdings, positions, orders, and investment performance.
