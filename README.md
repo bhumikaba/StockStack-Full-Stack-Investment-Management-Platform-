@@ -1,4 +1,4 @@
-StockStack-Full-Stack-Investment-Management-Platform
+## StockStack-Full-Stack-Investment-Management-Platform
 
 ## 📌 Project Overview
 
