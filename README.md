@@ -1,4 +1,4 @@
-# Zerodha Clone – Stock Trading Platform
+StockStack-Full-Stack-Investment-Management-Platform
 
 ## 📌 Project Overview
 
